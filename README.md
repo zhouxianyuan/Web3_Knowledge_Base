@@ -26,3 +26,14 @@
 - [第3部分 - EVM中的存储](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea?s=r)
 - [第4部分 - Go Ethereum（Geth）客户端的存储操作码](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-5a5?utm_source=%2Fprofile%2F80455042-noxx&utm_medium=reader2&s=r)
 - [第5部分 - 委托调用深入研究](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-a5f?utm_source=%2Fprofile%2F80455042-noxx&utm_medium=reader2&s=r)
+
+### 代理合约
+
+#### Jeiwan.net
+- [Upgradeable proxy contract from scratch](https://jeiwan.net/posts/upgradeable-proxy-from-scratch/)
+
+#### Openzepplin
+- [The State of Smart Contract Upgrades](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/)
+
+#### Learnblockchain
+- [以太坊实现智能合约升级的三种代理模式](https://learnblockchain.cn/article/1102)
