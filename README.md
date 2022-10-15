@@ -33,6 +33,8 @@
 - [Upgradeable proxy contract from scratch](https://jeiwan.net/posts/upgradeable-proxy-from-scratch/)
 
 #### Openzepplin
+- [Writing Upgradeable Contracts](https://docs.openzeppelin.com/upgrades-plugins/1.x/writing-upgradeable)
+- [Proxy Upgrade Pattern](https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies)
 - [The State of Smart Contract Upgrades](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/)
 
 #### Learnblockchain
