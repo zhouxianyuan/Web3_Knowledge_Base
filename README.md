@@ -47,3 +47,8 @@
 
 #### 0xMacro
 -[Solidity Gas Optimizations Cheat Sheet](https://0xmacro.com/blog/solidity-gas-optimizations-cheat-sheet/)
+
+### DeFi
+
+#### Uniswap V3
+-[Uniswap V3 Book](https://uniswapv3book.com/)
