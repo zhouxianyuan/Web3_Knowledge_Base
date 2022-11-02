@@ -39,3 +39,11 @@
 
 #### Learnblockchain
 - [以太坊实现智能合约升级的三种代理模式](https://learnblockchain.cn/article/1102)
+
+### GAS Optimization
+
+#### Github
+-[Awesome Solidity Gas-Optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization)
+
+#### 0xMacro
+-[Solidity Gas Optimizations Cheat Sheet](https://0xmacro.com/blog/solidity-gas-optimizations-cheat-sheet/)
