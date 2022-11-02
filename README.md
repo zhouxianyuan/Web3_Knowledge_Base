@@ -43,12 +43,12 @@
 ### GAS Optimization
 
 #### Github
--[Awesome Solidity Gas-Optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization)
+- [Awesome Solidity Gas-Optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization)
 
 #### 0xMacro
--[Solidity Gas Optimizations Cheat Sheet](https://0xmacro.com/blog/solidity-gas-optimizations-cheat-sheet/)
+- [Solidity Gas Optimizations Cheat Sheet](https://0xmacro.com/blog/solidity-gas-optimizations-cheat-sheet/)
 
 ### DeFi
 
 #### Uniswap V3
--[Uniswap V3 Book](https://uniswapv3book.com/)
+- [Uniswap V3 Book](https://uniswapv3book.com/)
