@@ -2,6 +2,10 @@
 
 ### EVM学习
 
+#### EVM Codes
+
+-[EVM.Codes](https://www.evm.codes/)
+
 #### Openzepplin - 解构Solidity合约
 
 - [第1部分 - 介绍](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
@@ -52,6 +56,14 @@
 
 #### Uniswap V3
 - [Uniswap V3 Book](https://uniswapv3book.com/)
+
+#### 坚实的幻想
+- [Uniswap v3 详解（一）：设计原理](https://liaoph.com/uniswap-v3-1/)
+- [Uniswap v3 详解（二）：创建交易对/提供流动性](https://liaoph.com/uniswap-v3-2/)
+- [Uniswap v3 详解（三）：交易过程](https://liaoph.com/uniswap-v3-3/)
+- [Uniswap v3 详解（四）：交易手续费](https://liaoph.com/uniswap-v3-4/)
+- [Uniswap v3 详解（五）：Oracle 预言机](https://liaoph.com/uniswap-v3-5/)
+- [Uniswap v3 详解（六）：闪电贷](https://liaoph.com/uniswap-v3-6/)
 
 ### Chi GAS Token
 
