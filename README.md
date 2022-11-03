@@ -52,3 +52,8 @@
 
 #### Uniswap V3
 - [Uniswap V3 Book](https://uniswapv3book.com/)
+
+### Chi GAS Token
+
+#### 坚实的幻想
+- [How to fork a CHI gastoken?](https://liaoph.com/how-to-fork-a-chi/)
