@@ -40,6 +40,9 @@
 #### Trust Security
 - [Blog](https://www.trustindistrust.com/blog)
 
+#### Tomo
+- [blog](https://tom-sol.notion.site/TomoLabo-755d3474528145fd95e68ee90c18495a)
+
 ### 代理合约
 
 #### Jeiwan.net
