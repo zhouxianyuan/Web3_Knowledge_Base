@@ -35,6 +35,11 @@
 
 - [Reversing and degugging EVM smart contracts](https://trustchain.medium.com/list/reversing-and-degugging-evm-smart-contracts-f4dd9195d07b)
 
+### Blog
+
+#### Trust Security
+- [Blog](https://www.trustindistrust.com/blog)
+
 ### 代理合约
 
 #### Jeiwan.net
