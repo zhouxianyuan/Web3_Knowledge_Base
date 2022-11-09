@@ -93,7 +93,7 @@
 #### OpenZeppelin 
 - [Deep dive into the Minimal Proxy contract](https://blog.openzeppelin.com/deep-dive-into-the-minimal-proxy-contract/)
 
-### Access Set
+### Access Sets
 
 #### Eric Nordelo
 - [Understanding gas costs after Berlin hard fork](https://www.ericnordelo.com/tag/eip-2930/)
