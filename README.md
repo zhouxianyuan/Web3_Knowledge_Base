@@ -1,4 +1,4 @@
-# WEB3
+# WEB3 Knowledge Base
 
 ### EVM学习
 
@@ -30,6 +30,10 @@
 - [第3部分 - EVM中的存储](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea?s=r)
 - [第4部分 - Go Ethereum（Geth）客户端的存储操作码](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-5a5?utm_source=%2Fprofile%2F80455042-noxx&utm_medium=reader2&s=r)
 - [第5部分 - 委托调用深入研究](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-a5f?utm_source=%2Fprofile%2F80455042-noxx&utm_medium=reader2&s=r)
+
+#### TrustChain 
+
+- [Reversing and degugging EVM smart contracts](https://trustchain.medium.com/list/reversing-and-degugging-evm-smart-contracts-f4dd9195d07b)
 
 ### 代理合约
 
