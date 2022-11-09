@@ -69,3 +69,14 @@
 
 #### 坚实的幻想
 - [How to fork a CHI gastoken?](https://liaoph.com/how-to-fork-a-chi/)
+
+### ERC 1167
+
+#### Mirror
+- [EIP-1167 详解](https://mirror.xyz/xyyme.eth/mmUAYWFLfcHGCEFg8903SweY3Sl-xIACZNDXOJ3twz8)
+
+#### 登链
+- [深入了解智能合约的最小代理“EIP-1167”](https://learnblockchain.cn/article/3400)
+
+#### OpenZeppelin 
+- [Deep dive into the Minimal Proxy contract](https://blog.openzeppelin.com/deep-dive-into-the-minimal-proxy-contract/)
