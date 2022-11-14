@@ -97,3 +97,12 @@
 
 #### Eric Nordelo
 - [Understanding gas costs after Berlin hard fork](https://www.ericnordelo.com/tag/eip-2930/)
+
+### Signature
+
+#### Nick method
+- [How to send Ether to 11,440 people](https://weka.medium.com/how-to-send-ether-to-11-440-people-187e332566b7)
+- [Universal Deployer](https://github.com/marktoda/universal-deployer)
+- [Ethereum one-time signatures](https://github.com/noot/eth-one-time-sig)
+
+
