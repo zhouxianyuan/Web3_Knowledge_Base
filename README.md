@@ -41,9 +41,12 @@
 - [Blog](https://www.trustindistrust.com/blog)
 
 #### Tomo
-- [blog](https://tom-sol.notion.site/TomoLabo-755d3474528145fd95e68ee90c18495a)
+- [Blog](https://tom-sol.notion.site/TomoLabo-755d3474528145fd95e68ee90c18495a)
 
-### 代理合约
+#### Trail of Bits
+- [Blog](https://blog.trailofbits.com/)
+
+### Proxy contract and Contract upgrade
 
 #### Jeiwan.net
 - [Upgradeable proxy contract from scratch](https://jeiwan.net/posts/upgradeable-proxy-from-scratch/)
@@ -55,6 +58,9 @@
 
 #### Learnblockchain
 - [以太坊实现智能合约升级的三种代理模式](https://learnblockchain.cn/article/1102)
+
+#### Trail of Bits
+- [Contract upgrade anti-patterns](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/)
 
 ### GAS Optimization
 
@@ -104,5 +110,18 @@
 - [How to send Ether to 11,440 people](https://weka.medium.com/how-to-send-ether-to-11-440-people-187e332566b7)
 - [Universal Deployer](https://github.com/marktoda/universal-deployer)
 - [Ethereum one-time signatures](https://github.com/noot/eth-one-time-sig)
+
+#### 登链
+- [https://learnblockchain.cn/article/5012](https://learnblockchain.cn/article/5012)
+
+#### ecrecover
+- [What is ecrecover in Solidity?](https://soliditydeveloper.com/ecrecover)
+
+### Security Practices
+
+#### Trail of Bits
+- [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts)
+
+
 
 
