@@ -36,6 +36,10 @@
 - [Blog](https://tom-sol.notion.site/TomoLabo-755d3474528145fd95e68ee90c18495a)
 #### Trail of Bits
 - [Blog](https://blog.trailofbits.com/)
+#### Ventral Digital
+- [Blog](https://ventral.digital/)
+#### Secureum
+- [Blog](https://secureum.substack.com/)
 ---
 ### Proxy contract and Contract upgrade
 #### Jeiwan.net
