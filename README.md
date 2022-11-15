@@ -24,6 +24,10 @@
 - [第5部分 - 委托调用深入研究](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-a5f?utm_source=%2Fprofile%2F80455042-noxx&utm_medium=reader2&s=r)
 #### TrustChain 
 - [Reversing and degugging EVM smart contracts](https://trustchain.medium.com/list/reversing-and-degugging-evm-smart-contracts-f4dd9195d07b)
+#### Mutourend
+- [Ethereum EVM简介](https://blog.csdn.net/mutourend/article/details/127325788?spm=1001.2014.3001.5502)
+- [剖析Solidity合约创建EVM bytecode](https://blog.csdn.net/mutourend/article/details/127365619?spm=1001.2014.3001.5502)
+- [揭秘EVM Opcodes](https://blog.csdn.net/mutourend/article/details/127304954?spm=1001.2014.3001.5502)
 ---
 ### Blog
 #### Trust Security
