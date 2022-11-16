@@ -77,6 +77,14 @@
 - [Uniswap Oracle Attack Simulator](https://www.euler.finance/blog/uniswap-oracle-attack-simulator)
 - [Euler Oracle Tools](https://oracle.euler.finance/)
 - [Euler Protocol’s Oracle Risk Grading System](https://www.eulerlabs.com/blog/euler-protocols-oracle-risk-grading-system)
+#### SmartContentpublication
+- [TWAP Oracles vs. Chainlink Price Feeds: A Comparative Analysis](https://smartcontentpublication.medium.com/twap-oracles-vs-chainlink-price-feeds-a-comparative-analysis-8155a3483cbd)
+#### Msfew.eth
+- [Crypto-Native Oracle TWAP](https://mirror.xyz/msfew.eth/qSmnIO_O0OUlvkUfzca_kOrhlaHBHaEtx40D_ZCOC9Q)
+#### 登链
+- [价格预言机的使用总结（一）：Chainlink篇](https://learnblockchain.cn/article/3901)
+- [价格预言机的使用总结（二）：UniswapV2篇](https://learnblockchain.cn/article/3960)
+- [价格预言机的使用总结（三）：UniswapV3篇](https://learnblockchain.cn/article/4179)
 ---
 ### Chi GAS Token
 #### 坚实的幻想
