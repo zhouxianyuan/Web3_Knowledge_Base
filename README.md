@@ -18,7 +18,7 @@
 - [Understanding the Ethereum virtual machine – part III](https://leftasexercise.com/2021/09/19/q-understanding-the-ethereum-virtual-machine-part-iii/)
 #### Noxx - EVM Deep Dives: The Path to Shadowy Super Coder
 - [Part 1](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r)
-- [Part 2]https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b?s=r)
+- [Part 2](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b?s=r)
 - [Part 3](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea?s=r)
 - [Part 4](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-5a5?utm_source=%2Fprofile%2F80455042-noxx&utm_medium=reader2&s=r)
 - [Part 5](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-a5f?utm_source=%2Fprofile%2F80455042-noxx&utm_medium=reader2&s=r)
