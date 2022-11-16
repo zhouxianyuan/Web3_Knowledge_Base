@@ -70,9 +70,20 @@
 - [Uniswap v3 详解（五）：Oracle 预言机](https://liaoph.com/uniswap-v3-5/)
 - [Uniswap v3 详解（六）：闪电贷](https://liaoph.com/uniswap-v3-6/)
 ---
+### Price And Oracles
+#### Euler
+- [Prices and oracles](https://www.euler.finance/blog/prices-and-oracles)
+- [Moving average filters](https://www.euler.finance/blog/moving-average-filters)
+- [Uniswap Oracle Attack Simulator](https://www.euler.finance/blog/uniswap-oracle-attack-simulator)
+- [Euler Oracle Tools](https://oracle.euler.finance/)
+- [Euler Protocol’s Oracle Risk Grading System](https://www.eulerlabs.com/blog/euler-protocols-oracle-risk-grading-system)
+---
 ### Chi GAS Token
 #### 坚实的幻想
 - [How to fork a CHI gastoken?](https://liaoph.com/how-to-fork-a-chi/)
+---
+### Jump Oriented Programming
+- [s3cunda](https://s3cunda.github.io/2022/01/19/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E7%9A%84JOP%E5%90%8E%E9%97%A8.html)
 ---
 ### ERC 1167
 #### Mirror
