@@ -118,6 +118,16 @@
 ### Security Practices
 #### Trail of Bits
 - [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts)
+---
+### BootCamp
+#### Trail of Bits
+- [The road to the apprenticeship](https://blog.trailofbits.com/2022/08/12/the-road-to-the-apprenticeship/)
+#### Anugrahsr
+- [Awesome web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security)
+#### QuillAudit
+- [QuillAudit Auditor Roadmap](https://github.com/Quillhash/QuillAudit_Auditor_Roadmap)
+
+
 
 
 
