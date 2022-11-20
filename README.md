@@ -41,6 +41,9 @@
 #### Secureum
 - [Blog](https://secureum.substack.com/)
 ---
+### Post Mortem
+- [Profanity Address - 1](https://mirror.xyz/bulik.eth/gA-Wh1jbjvBwL4dHWAGSQEqV2A8oSdu-6F1xGurdKII)
+- [Profanity Address - 2](https://mirror.xyz/bulik.eth/Kf3tbaD6iXvn0S4VWEep7rSSkRXVSkyNTw5dwXQaeHw)
 ### Proxy contract and Contract upgrade
 #### Jeiwan.net
 - [Upgradeable proxy contract from scratch](https://jeiwan.net/posts/upgradeable-proxy-from-scratch/)
