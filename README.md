@@ -81,6 +81,8 @@
 - [TWAP Oracles vs. Chainlink Price Feeds: A Comparative Analysis](https://smartcontentpublication.medium.com/twap-oracles-vs-chainlink-price-feeds-a-comparative-analysis-8155a3483cbd)
 #### Msfew.eth
 - [Crypto-Native Oracle TWAP](https://mirror.xyz/msfew.eth/qSmnIO_O0OUlvkUfzca_kOrhlaHBHaEtx40D_ZCOC9Q)
+#### Uniswap V3
+- [Uniswap v3 TWAP Oracles in Proof of Stake](https://uniswap.org/blog/uniswap-v3-oracles)
 #### 登链
 - [价格预言机的使用总结（一）：Chainlink篇](https://learnblockchain.cn/article/3901)
 - [价格预言机的使用总结（二）：UniswapV2篇](https://learnblockchain.cn/article/3960)
