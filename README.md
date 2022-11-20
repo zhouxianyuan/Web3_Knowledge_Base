@@ -62,6 +62,7 @@
 ### DeFi
 #### Uniswap V3
 - [Uniswap V3 Book](https://uniswapv3book.com/)
+- [Uniswap V3 Book CN](https://y1cunhui.github.io/uniswapV3-book-zh-cn/)
 #### 坚实的幻想
 - [Uniswap v3 详解（一）：设计原理](https://liaoph.com/uniswap-v3-1/)
 - [Uniswap v3 详解（二）：创建交易对/提供流动性](https://liaoph.com/uniswap-v3-2/)
