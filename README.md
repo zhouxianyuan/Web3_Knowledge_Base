@@ -55,6 +55,8 @@
 - [以太坊实现智能合约升级的三种代理模式](https://learnblockchain.cn/article/1102)
 #### Trail of Bits
 - [Contract upgrade anti-patterns](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/)
+#### Aaruni
+- [Deep Dive: Upgradeable Smart Contracts](https://aaruni.io/deep-dive-upgradeable-smart-contracts/)
 ---
 ### GAS Optimization
 #### Github
