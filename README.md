@@ -47,6 +47,8 @@
 ### Proxy contract and Contract upgrade
 #### Jeiwan.net
 - [Upgradeable proxy contract from scratch](https://jeiwan.net/posts/upgradeable-proxy-from-scratch/)
+#### yAcademy
+- [proxies.yacademy.dev](https://proxies.yacademy.dev/)
 #### Openzepplin
 - [Writing Upgradeable Contracts](https://docs.openzeppelin.com/upgrades-plugins/1.x/writing-upgradeable)
 - [Proxy Upgrade Pattern](https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies)
@@ -65,6 +67,8 @@
 - [Solidity Gas Optimizations Cheat Sheet](https://0xmacro.com/blog/solidity-gas-optimizations-cheat-sheet/)
 ---
 ### DeFi
+#### Crypto Yield Sources
+- [Crypto Yield Sources](https://medium.com/1kxnetwork/crypto-yield-sources-not-all-yield-is-created-equal-6a742db16be8)
 #### Uniswap V3
 - [Uniswap V3 Book](https://uniswapv3book.com/)
 - [Uniswap V3 Book CN](https://y1cunhui.github.io/uniswapV3-book-zh-cn/)
