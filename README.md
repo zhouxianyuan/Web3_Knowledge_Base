@@ -40,6 +40,8 @@
 - [Blog](https://ventral.digital/)
 #### Secureum
 - [Blog](https://secureum.substack.com/)
+#### zellic
+- [Blog](https://www.zellic.io/blog)
 ---
 ### Post Mortem
 - [Profanity Address - 1](https://mirror.xyz/bulik.eth/gA-Wh1jbjvBwL4dHWAGSQEqV2A8oSdu-6F1xGurdKII)
@@ -116,6 +118,9 @@
 ### Access Sets
 #### Eric Nordelo
 - [Understanding gas costs after Berlin hard fork](https://www.ericnordelo.com/tag/eip-2930/)
+---
+### Formally Verify
+- [Formally Verifying The World’s Most Popular Smart Contract](https://www.zellic.io/blog/formal-verification-weth)
 ---
 ### Signature
 #### Nick method
