@@ -42,6 +42,8 @@
 - [Blog](https://secureum.substack.com/)
 #### zellic
 - [Blog](https://www.zellic.io/blog)
+#### Mixbytes
+- [Blog](https://mixbytes.io/Blog)
 ---
 ### Post Mortem
 - [Profanity Address - 1](https://mirror.xyz/bulik.eth/gA-Wh1jbjvBwL4dHWAGSQEqV2A8oSdu-6F1xGurdKII)
