@@ -44,6 +44,8 @@
 - [Blog](https://www.zellic.io/blog)
 #### Mixbytes
 - [Blog](https://mixbytes.io/Blog)
+#### Trustindistrust
+- [Blog](https://www.trustindistrust.com/blog)
 ---
 ### Post Mortem
 - [Profanity Address - 1](https://mirror.xyz/bulik.eth/gA-Wh1jbjvBwL4dHWAGSQEqV2A8oSdu-6F1xGurdKII)
