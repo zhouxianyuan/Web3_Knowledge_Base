@@ -1,4 +1,4 @@
-# WEB3 Knowledge Base
+# Web3 Knowledge Base
 
 ### EVM
 #### EVM Codes
