@@ -149,8 +149,10 @@
 - [Awesome web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security)
 #### QuillAudit
 - [QuillAudit Auditor Roadmap](https://github.com/Quillhash/QuillAudit_Auditor_Roadmap)
-
-
+----
+### Tool
+#### ABI Encoding
+- [HashEx](https://abi.hashex.org/)
 
 
 
