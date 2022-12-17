@@ -50,6 +50,8 @@
 - [Blog](https://eigenphi.substack.com/)
 #### Forta
 - [Blog](https://forta.org/blog/)
+#### BlockThreat
+- [Blog](https://newsletter.blockthreat.io/)
 ---
 ### Post Mortem
 - [Profanity Address - 1](https://mirror.xyz/bulik.eth/gA-Wh1jbjvBwL4dHWAGSQEqV2A8oSdu-6F1xGurdKII)
@@ -158,6 +160,9 @@
 ---
 ### Dune
 - [Dune Analytics: A Guide for Complete Beginners](https://mirror.xyz/phillan.eth/17VAXsMPpwJg4OQNBHKTYAQTWfJMwFuXZQDAxPStf0o)
+---
+### Crossing Bridge
+- [Crossing The Bridge](https://redefine.net/media/crossing-the-bridge/)
 
 
 
