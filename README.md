@@ -52,6 +52,8 @@
 - [Blog](https://forta.org/blog/)
 #### BlockThreat
 - [Blog](https://newsletter.blockthreat.io/)
+#### SolidityDevelopver
+- [Blog](https://soliditydeveloper.com/blog)
 ---
 ### Post Mortem
 - [Profanity Address - 1](https://mirror.xyz/bulik.eth/gA-Wh1jbjvBwL4dHWAGSQEqV2A8oSdu-6F1xGurdKII)
