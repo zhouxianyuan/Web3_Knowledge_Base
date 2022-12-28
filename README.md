@@ -79,6 +79,8 @@
 - [Awesome Solidity Gas-Optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization)
 #### 0xMacro
 - [Solidity Gas Optimizations Cheat Sheet](https://0xmacro.com/blog/solidity-gas-optimizations-cheat-sheet/)
+#### Github
+- [EVM-Gas-Optimizations](https://github.com/0xKitsune/EVM-Gas-Optimizations)
 ---
 ### DeFi
 #### Crypto Yield Sources
