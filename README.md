@@ -95,6 +95,8 @@
 - [Uniswap v3 详解（四）：交易手续费](https://liaoph.com/uniswap-v3-4/)
 - [Uniswap v3 详解（五）：Oracle 预言机](https://liaoph.com/uniswap-v3-5/)
 - [Uniswap v3 详解（六）：闪电贷](https://liaoph.com/uniswap-v3-6/)
+#### Curve
+- [Curve Finance 原理](https://www.panewslab.com/zh/articledetails/h5ic1xmz.html)
 ---
 ### Price And Oracles
 #### Euler
