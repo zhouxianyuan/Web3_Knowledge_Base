@@ -171,6 +171,7 @@
 ---
 ### Crossing Bridge
 - [Crossing The Bridge](https://redefine.net/media/crossing-the-bridge/)
+- [Horatius At The Bridge](https://rainandcoffee.substack.com/p/horatius-at-the-bridge)
 
 
 
