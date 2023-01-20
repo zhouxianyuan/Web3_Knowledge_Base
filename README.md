@@ -172,7 +172,9 @@
 ### Crossing Bridge
 - [Crossing The Bridge](https://redefine.net/media/crossing-the-bridge/)
 - [Horatius At The Bridge](https://rainandcoffee.substack.com/p/horatius-at-the-bridge)
-
+---
+### Decompilation
+- [Diving Into Smart Contract Decompilation](https://jbecker.dev/research/diving-into-decompilation/)
 
 
 
