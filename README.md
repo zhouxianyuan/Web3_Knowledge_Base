@@ -46,8 +46,6 @@
 - [Blog](https://www.zellic.io/blog)
 #### Mixbytes
 - [Blog](https://mixbytes.io/Blog)
-#### Trustindistrust
-- [Blog](https://www.trustindistrust.com/blog)
 #### EigenPhi
 - [Blog](https://eigenphi.substack.com/)
 #### Forta
