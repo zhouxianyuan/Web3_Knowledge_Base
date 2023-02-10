@@ -89,12 +89,12 @@
 - [Uniswap V3 Book](https://uniswapv3book.com/)
 - [Uniswap V3 Book CN](https://y1cunhui.github.io/uniswapV3-book-zh-cn/)
 #### 坚实的幻想
-- [Uniswap v3 详解（一）：设计原理](https://liaoph.com/uniswap-v3-1/)
-- [Uniswap v3 详解（二）：创建交易对/提供流动性](https://liaoph.com/uniswap-v3-2/)
-- [Uniswap v3 详解（三）：交易过程](https://liaoph.com/uniswap-v3-3/)
-- [Uniswap v3 详解（四）：交易手续费](https://liaoph.com/uniswap-v3-4/)
-- [Uniswap v3 详解（五）：Oracle 预言机](https://liaoph.com/uniswap-v3-5/)
-- [Uniswap v3 详解（六）：闪电贷](https://liaoph.com/uniswap-v3-6/)
+- [Uniswap v3 详解（一）：设计原理](https://paco0x.org/uniswap-v3-1/)
+- [Uniswap v3 详解（二）：创建交易对/提供流动性](https://paco0x.org/uniswap-v3-2/)
+- [Uniswap v3 详解（三）：交易过程](https://paco0x.org/uniswap-v3-3/)
+- [Uniswap v3 详解（四）：交易手续费](https://paco0x.org/uniswap-v3-4/)
+- [Uniswap v3 详解（五）：Oracle 预言机](https://paco0x.org/uniswap-v3-5/)
+- [Uniswap v3 详解（六）：闪电贷](https://paco0x.org/uniswap-v3-6/)
 #### Curve
 - [Curve Finance 原理](https://www.panewslab.com/zh/articledetails/h5ic1xmz.html)
 ---
@@ -118,7 +118,7 @@
 ---
 ### Chi GAS Token
 #### 坚实的幻想
-- [How to fork a CHI gastoken?](https://liaoph.com/how-to-fork-a-chi/)
+- [How to fork a CHI gastoken?](https://paco0x.org/how-to-fork-a-chi/)
 ---
 ### Jump Oriented Programming
 - [s3cunda](https://s3cunda.github.io/2022/01/19/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E7%9A%84JOP%E5%90%8E%E9%97%A8.html)
