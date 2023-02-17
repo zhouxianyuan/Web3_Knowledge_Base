@@ -173,6 +173,9 @@
 ---
 ### Decompilation
 - [Diving Into Smart Contract Decompilation](https://jbecker.dev/research/diving-into-decompilation/)
+---
+### Signature
+- [ethereum-signatures-for-hackers-and-auditors](https://medium.com/coinmonks/ethereum-signatures-for-hackers-and-auditors-101-4da766cd6344)
 
 
 
