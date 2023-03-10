@@ -178,4 +178,6 @@
 - [ethereum-signatures-for-hackers-and-auditors](https://medium.com/coinmonks/ethereum-signatures-for-hackers-and-auditors-101-4da766cd6344)
 ### CTF
 - [ctfwriteup](https://www.ctfwriteup.com/)
+### Bit Shitfing
+- [Solidity and EVM: Bit Shifting and Masking in Assembly(YUL)](https://medium.com/@mweiss.eth/solidity-and-evm-bit-shifting-and-masking-in-assembly-yul-942f4b4ebb6a)
 
