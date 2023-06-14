@@ -88,7 +88,7 @@
 #### Uniswap V3
 - [Uniswap V3 Book](https://uniswapv3book.com/)
 - [Uniswap V3 Book CN](https://y1cunhui.github.io/uniswapV3-book-zh-cn/)
-#### 坚实的幻想
+#### 0xPaco
 - [Uniswap v3 详解（一）：设计原理](https://paco0x.org/uniswap-v3-1/)
 - [Uniswap v3 详解（二）：创建交易对/提供流动性](https://paco0x.org/uniswap-v3-2/)
 - [Uniswap v3 详解（三）：交易过程](https://paco0x.org/uniswap-v3-3/)
@@ -97,6 +97,7 @@
 - [Uniswap v3 详解（六）：闪电贷](https://paco0x.org/uniswap-v3-6/)
 #### Curve
 - [Curve Finance 原理](https://www.panewslab.com/zh/articledetails/h5ic1xmz.html)
+- [This is why the Curve Wars are Being Fought](https://incentivized.substack.com/p/this-is-why-the-curve-wars-are-being)
 ---
 ### Price And Oracles
 #### Euler
